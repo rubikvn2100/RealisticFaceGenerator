@@ -8,6 +8,7 @@ if __name__ == "__main__":
 
 	database = TwitterDatabaseInterface(database_path)
 
+	username_list = []
 	for username in username_list:
 		database.add_user_by_name(username)
 
