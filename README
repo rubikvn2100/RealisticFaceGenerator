@@ -1,0 +1,5 @@
+Run the follow command to use NVIDIA_stylegan2_ada_dataset_tool.py 
+
+python NVDIA_stylegan2_ada_dataset_tool.py --source Classified_Image\Asian_face_dataset_limit_256 --dest Classified_Image\dataset_256 --width 256 --height 256
+
+
